@@ -4,8 +4,7 @@
 
 ### 제출 조건
 
-1. 과제 repo clone 후 개인 github 에 private repository 생성 후 Settings > Collaborators and teams > Manage access > Add People > dy128.kim@wisebirds.com, kimjieun@wisebirds.com
-   , bruno.park@wisebirds.com 계정을 추가해주세요
+1. 과제 repo clone 후 개인 github 에 private repository 생성 후 Settings > Collaborators and teams > Manage access > Add People > dy128.kim@wisebirds.com 계정을 추가해주세요
 2. **제출 방법**: 과제 시작 시간부터 4시간 이내 필수로 push 해주세요.
 3. 아래 구현 요구사항 외에는 제약 사항 없이 자유롭게 구현해주시면 됩니다.
 4. **중요!!! 평가 기준**: 기능 구현 완성도, 최적화 및 설계 품질을 중점 검토 예정입니다.
